@@ -1,6 +1,6 @@
 DevOps Infrastructure Project
 
-Version 1
+Version 2
 
 
 
